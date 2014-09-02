@@ -1,0 +1,22 @@
+## for having access to Github from command
+$ git clone ##paste url that we can find on github
+##then we can creat a file with github content
+
+## to see the list
+$ ls 
+
+## to 
+$ vim 
+
+## to add a new file in a distingue
+$ git add  
+
+## to see all commit message in gitHub
+$ git commit-help
+
+## to see what happened
+$ git log
+
+## to update the file
+$ git push (-u) ## + file name
+$ git pull (-u) ## + file name

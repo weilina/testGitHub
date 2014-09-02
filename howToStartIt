@@ -1,7 +1,0 @@
-## for having access to Github from command
-$ git clone ##paste url that we can find on github
-
-##then we can creat a file with github content
-
-$ ls ## to see the list
-$ vim ## to 
